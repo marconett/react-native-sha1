@@ -1,6 +1,6 @@
 {
   "name": "react-native-sha1",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Native sha1 react-native",
   "main": "sha1.js",
   "scripts": {
