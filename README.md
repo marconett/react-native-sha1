@@ -1,3 +1,13 @@
+# DEPRECATED
+
+The Repo I merged this from (https://github.com/itinance/react-native-sha256) now supports sha1 using an undocumented feature:
+
+```js
+import { sha1 } from 'react-native-sha256';
+```
+
+This makes this library obsolete.
+
 # react-native-sha1
 sha1 natively for react-native
 
